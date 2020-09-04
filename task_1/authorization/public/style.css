@@ -1,0 +1,19 @@
+.notice {
+	width: 320px;
+	height: 20px;
+	margin: 100px auto;
+}
+.notice {
+	color: #F00;
+}
+.wrap {
+	width: 320px;
+	margin: auto;
+}
+.wrap input {
+	display: block;
+	padding: 5px;
+}
+.wrap div {
+	margin: 20px 0;
+}
